@@ -2,6 +2,7 @@
 name = "frtr"
 version = "0.1.0"
 description = "FRTR: From Rows to Reasoning – A Multimodal Retrieval Framework for Spreadsheet Understanding"
+readme = "README.md"
 requires-python = ">=3.10"
 dependencies = [
     # Excel processing

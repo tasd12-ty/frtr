@@ -8,8 +8,7 @@ build/
 # Virtual environment
 .venv/
 
-# uv
-uv.lock
+# uv (keep uv.lock for reproducibility)
 
 # FRTR index cache
 .index/
